@@ -257,12 +257,14 @@ header h1 a {
 /****Non suppage set****/
 #portfolio {
   background-color: #99CC33;
+  
   /*background-color: #287e7d;*/
   padding-bottom: 101px;
 }
 #portfolio h2 {
   padding-top: 98px;
   color: #993399;
+  
 }
 #testimonials {
   background-color: #99CC33;
@@ -283,7 +285,7 @@ header h1 a {
   padding-bottom: 97px;
 }
 #experience h2 {
-  padding-top: 97px;
+  padding-top: 105px;
 }
 #contacts {
   padding-bottom: 97px;
@@ -488,7 +490,9 @@ a.color1:hover {
   color: #993399;
   
 }
-/****Map****/
+/********************************************
+              Map
+********************************************/
 .google-map-api {
   padding-top: 98px;
 }
