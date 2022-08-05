@@ -1,3 +1,3 @@
-# Mildred_portifolio_website
+# Mildred-Personal-website
 
 This is basically showcases my work and skills.
