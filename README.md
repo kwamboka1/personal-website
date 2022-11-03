@@ -1,7 +1,21 @@
 # Mildred-Personal-website
 
-![image](https://media-exp1.licdn.com/dms/image/C4D03AQGUvuzO97eRWg/profile-displayphoto-shrink_400_400/0/1559287377329?e=1665014400&v=beta&t=jGXWkmX2ctoxUTqUn1-QpPyWEMkgRpzNBgWPVUma2ZU)
+![Mildred](https://media.licdn.com/dms/image/C4D03AQGUvuzO97eRWg/profile-displayphoto-shrink_100_100/0/1559287377329?e=1672876800&v=beta&t=Q30iJghEAG5kEJXiMPL-beAAyesdrUB1wSNvDTb-EoY)
 
-This is basically showcases my work and skills
+This is basically showcases my work and skills.
+# Languages and Tools:
+* JavaScript
+* CSS
+* HTML
+* Less
+* PHP
 
+Give a ⭐ if project was helpful
+
+# 📄 License
+
+Copy © 2022 Twitter: [@makori_mildred](https://twitter.com/makori_mildred)
+
+Project is [MIT](https://github.com/kwamboka1/personal-website/blob/gh-pages/LICENSE) licensed
+## OR
 [Find me in ALL my social media](https://linktr.ee/makori_mildred)
