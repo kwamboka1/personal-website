@@ -14,7 +14,7 @@ Give a ⭐ if project was helpful
 
 # 📄 License
 
-Copy © 2022 Twitter: [@makori_mildred](https://twitter.com/makori_mildred)
+Copy © 2023 Twitter: [@makori_mildred](https://twitter.com/makori_mildred)
 
 Project is [MIT](https://github.com/kwamboka1/personal-website/blob/gh-pages/LICENSE) licensed
 ## OR
