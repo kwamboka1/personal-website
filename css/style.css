@@ -20,8 +20,8 @@ sss * {
 }
 body {
   position: relative;
-  background: #99CC33;
-  color: purple;
+  background: #4d7b93;
+  color: #b45dbb;
   font: 300 18px/24px 'Open Sans', sans-serif;
   min-width: 1000px;
 }
@@ -29,7 +29,7 @@ body {
   border:0;
   float:right;
   background:#fff;
-  color:purple;
+  color:#b45dbb;
   width:50%;
   line-height:10px;
   font-size:10px;
