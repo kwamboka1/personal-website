@@ -109,15 +109,16 @@ a:hover {
 .btn {
   display: inline-block;
   /*background-color: #343a5e;*/
-  background-color:  #e8e6b9;
+  background-color:  #993399;
   color: #ffffff;
   font: 30px/40px 'Yanone Kaffeesatz', sans-serif;
   padding: 9px 42px 12px;
   margin-top: 36px;
 }
 .btn:hover {
-  background-color: #993399;
-  color: #ffffff;
+  background-color: transparent;
+  border: 1px solid #993399;
+  color: #993399;
 }
 /****classes****/
 .mb0 {
